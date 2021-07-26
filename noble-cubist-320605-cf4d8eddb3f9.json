@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "noble-cubist-320605",
+  "private_key_id": "cf4d8eddb3f9cc2795e87e0709c8cd0433b5293e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/4FbM4Yg2D+13\n2zLlEAXzmLaipJ71rVLPxSjCgjzeptvJaPg2Zan9telMR0KzrYRh6mC3cDzTJD8Q\nRM05OoxHssXSRSB5tx+C3UMMKJWxPlpSPhG2U0uUWnWaj49pEEy0kgxENSgD1a0v\nLrlYcGgyjW2vlCAJQf1vZh1EZ6QUY0ACzfIZmdxuW2ZgwBG0Jc56IOv7t49QLEkH\naWSVB2bfIzQeJRibhsiizW63GGiyTTjdSeadGrEUmj+lvM/THk5uILPfKUwRhsbd\nnUEWDEYS6j/340EJ5b3ijmKmcaJbNLe6GCnCnK6jVj7JylGTyTdJzMDFwcB4VLpN\nlTt5kQANAgMBAAECggEARUfsH4MpqxeaL2ZK3LGp7HiOLXDSYrPoDFRMsNrUvrIx\n9un7gay4sf6uk9fBKl5zR+WYcXPJypUyXh3xmgHdaAARdKh4Huqzqo1Y6bl3v21b\nsIlv3Mz7o7/76ch/SDjV8XcwjapB3gyXwUsWKmw/+0zct4J9BMq6hzAwTiQ79w30\nGjgKGjIs7HBU+pyy2ROoUoV/nez/b+gDkBvQjHXrNconY5OMpYPMpv17eRsP+wsf\n147ATiwF8YYIFRnayrFb6wIQ0c0ipRaZCTAFSQVg2qmMAq5/AgbsF+t9UDauq/0g\nCD6SbHsuiA/k4qEd/ExvbtYmQM8uta6qkliuIB2JAwKBgQD4J2XVld4Bgi2zfQcG\nIY3n37p57v3XS/BWf9oCCPrwhHWVibYsi1VqKIlSbK9PC6cRYBk8DyyHnsFtujQh\neuO4q8wotzg8/IViJC6TRBo9mypBBG3da1hfyvJP+zbw2kk8zRt9tklCquqgEfzP\nfaVYUA23+58nR1W5/werUU0w+wKBgQDF8WulQCSmtkSV/SppPuhwZ8LstuFwmwxC\nq6gm4B+zbq7L9dZDEbJ6lJ47sKH7bcPYsQ1g1WdSIEIC1XLtLrj9pMvca2OdcDOV\ndpy44EGgAV8Ln0qugPLU374otYR/VOb1N77+rZlpMsD0qJ/lkUlHQZAdOzbykDAm\n0IslQKiUlwKBgBl3waXH+b7h41rWbBAfBXdUqMi21GpyKrpV6MPotAhXL9InDgFI\nU33PpzhEW0Gbiovn9u8JB6LrkiJ2x77f49siFpPfKfBoYjAOUpFenerQr+d4UuY0\njB9YrsGyoJLbdES/MCEYwjALZoUDE5Uf6gZEQQQu2MipM40hNWJJt8hdAoGATzLv\nbSkjAQlAm/q1s3KWMhNyLKBnx1RiLXLdTuCyDmskyTrNxfwYu28neJ6N0Tnz+Imu\n3qXEN1nsz5Fz8G6XWfVMFB9rthykpxLUVix0VX729oF/sh6qCn6TaVpnb0MbPdZW\nNzRig3LpPXsSrxnYhgg3j1qX+6mxenZKllcunHUCgYB2ZvJxBqYxnpXoeYIelANw\nUMF3D+Swc7mwmNT6BEZtVo4ZrLUjCFDIAocgOCSOMuytf8GQXqDPyKw6wE2YzQTT\nYPauo3aTW9NtGS/7Aytlr/oZSeA0w1Qm5uwH+M2vi4cV8SxK/BZORypfcAIl0cFo\nZJ3m0y4jmeHCYVRYUICByA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "analyticapi@noble-cubist-320605.iam.gserviceaccount.com",
+  "client_id": "105347605290771826958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/analyticapi%40noble-cubist-320605.iam.gserviceaccount.com"
+}
